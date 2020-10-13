@@ -14,7 +14,7 @@ class Adder():
 if __name__ == "__main__":
     print("Starting program")
 
-    adder = Adder(10, 20)
+    adder = Adder(64, 36)
     print(adder.getSum())
 
     print("Done with program")
